@@ -8,10 +8,13 @@ matplotlib
 nbclient
 nltk
 numpy
+openpyxl
 pandas
 Path
 plotly
+seaboard
 sphinx-click
 sphinx_inline_tabs
 sympy
+homotopy
 wordcloud
