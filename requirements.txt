@@ -13,6 +13,7 @@ pandas
 Path
 plotly
 seaborn
+spacy
 sphinx-click
 sphinx_inline_tabs
 sympy
