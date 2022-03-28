@@ -12,7 +12,7 @@ openpyxl
 pandas
 Path
 plotly
-seaboard
+seaborn
 sphinx-click
 sphinx_inline_tabs
 sympy
