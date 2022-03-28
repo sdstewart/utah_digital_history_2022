@@ -17,5 +17,5 @@ spacy
 sphinx-click
 sphinx_inline_tabs
 sympy
-homotopy
+tomotopy
 wordcloud
