@@ -1,5 +1,5 @@
 altair
-bokeh
+basemap
 folium
 gensim
 ipywidgets
